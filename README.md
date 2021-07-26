@@ -1,0 +1,2 @@
+# fungsi
+berisi coding fungsi
